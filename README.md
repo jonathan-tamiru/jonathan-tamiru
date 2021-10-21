@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathan-tamiru
 - 👀 I’m interested in sports, music, computer
-- 🌱 I’m currently learning c++, Javs Script, ABAP, GO
+- 🌱 I’m currently learning CPP, JS, ABAP, GO
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me jonathan.tamiru@hotmail.com
 
