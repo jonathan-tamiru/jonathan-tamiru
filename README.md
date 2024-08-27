@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathan-tamiru
+- 👋 Hi, I’m @jonathan-tamiru a SAP Junior Consultant
 - 👀 I’m interested in sports, music, computer
 - 🌱 I’m currently learning CPP, JS, ABAP, GO
 - 💞️ I’m looking to collaborate on many projects
